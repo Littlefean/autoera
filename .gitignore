@@ -12,3 +12,6 @@ out/
 .idea/modules.xml
 
 *.class
+
+Test.java
+Test.py
